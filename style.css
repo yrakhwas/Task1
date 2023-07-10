@@ -1,0 +1,19 @@
+body {
+    margin: 20px;
+
+}
+
+article {
+    padding: 10px;
+    background-color: rgb(233, 233, 233);
+}
+
+sup {
+    color: blue;
+}
+
+.bott {
+    font-size: smaller;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 5px;
+}
